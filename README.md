@@ -11,4 +11,9 @@ This branch contains the results for our publication. The following experiments 
 
 The `dataloader` script contains utilities and is not required.
 
+
 Running these scripts requires the following additional dependencies: `scikit-learn`, `albumentations`, `opacus`, `pyvacy`, `tqdm` and `pytorch-lightning`. Optionally, `tensorboard` can be used to monitor trainings.
+=======
+# For paper readers
+If you would like to reproduce the results from our paper, please go [here](https://github.com/gkaissis/deepee/tree/results)
+
